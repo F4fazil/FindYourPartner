@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816805240146",
+    "project_id": "datingapp-feaef",
+    "storage_bucket": "datingapp-feaef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816805240146:android:f3c0a219dd329394e92e8b",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw2sFozonvHYepEwa1A9AaYIIR90sQXZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
