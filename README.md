@@ -1,6 +1,6 @@
 # FindYourPartner
 A new Flutter project.
-![FindYourPartner](https://github.com/F4fazil/FindYourPartner/assets/96938666/5817a4d5-91b5-430c-b3bf-cede18ec70bb)
+![findYourPartner (2)](https://github.com/user-attachments/assets/6c850165-3ddf-4958-b3d9-135f38c51bc7)
 
 
 ## Getting Started
